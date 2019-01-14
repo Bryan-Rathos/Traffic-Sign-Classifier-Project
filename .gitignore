@@ -4,3 +4,9 @@ data
 models
 *.swp
 *.p
+checkpoint
+extra_data
+my_lenet.data-00000-of-00001
+my_lenet.index
+my_lenet.meta
+Traffic_Sign_ClassifierOG.ipynb
